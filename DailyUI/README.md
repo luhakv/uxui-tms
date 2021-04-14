@@ -92,7 +92,7 @@
 - Curated For You
 - F.A.Q.
 - Splash Screen
-- - News
+- News
 - Product Tour
 - Currently In-Stock
 - Giveaway
