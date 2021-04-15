@@ -1,4 +1,4 @@
-***All DailyUI Challenges***
+**All DailyUI Challenges**
 - Sign Up
 - Credit Card Checkout
 - Landing Page (above the fold)
